@@ -1,2 +1,2 @@
 # django-rest-framework-utils
-Soma tools for django-rest-framework
+Some tools for django-rest-framework
