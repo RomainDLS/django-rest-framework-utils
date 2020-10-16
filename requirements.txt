@@ -1,0 +1,6 @@
+# Base requirements for drf-utils
+django>=2.*
+djangorestframework==3.10.*
+
+# Requirements for testing
+-r requirements/requirements-testing.txt
