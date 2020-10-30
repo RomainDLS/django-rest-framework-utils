@@ -20,6 +20,6 @@ deactivate
 # Activate environment
 source env/bin/activate
 
-# Run tests
+# Run tests (in test directory)
 pytest
 ```
